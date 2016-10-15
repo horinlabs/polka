@@ -1,2 +1,3 @@
-# polka
-NodeJS RESTful framework
+# Polka
+
+[WIP] Node RESTful framework prototype.
